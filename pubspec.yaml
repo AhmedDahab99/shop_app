@@ -1,0 +1,39 @@
+name: shop_app
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts:
+  font_awesome_flutter:
+  bloc: ^7.0.0
+  flutter_bloc: ^7.0.0
+  conditional_builder:
+  intl:
+  dio: ^4.0.0
+  hexcolor: ^2.0.3
+  shared_preferences: ^2.0.5
+  smooth_page_indicator: ^0.2.0
+  fluttertoast: ^8.0.6
+  carousel_slider: ^3.0.0
+  flutter_staggered_animations: ^1.0.0
+  flushbar:
+  wiggly_circle: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Jannah
+      fonts:
+        - asset: assets/fonts/jannah.ttf
