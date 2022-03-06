@@ -1,6 +1,7 @@
 # shop_app
 
-A new Flutter application.
+This application developed by Flutter, state management bloC (Cubit) and Dio package for API requests. 
+Application is an minimum e-commerce app. user can add products to his favorite list. each user can edit his data like name,phone,email and password 
 
 ## Getting Started
 
